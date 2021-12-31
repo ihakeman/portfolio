@@ -18,12 +18,12 @@ Notes about my database:
 - For advisee removal, must give a different faculty id for the student's advisor to become to preserve referential integrity.
 
 ## References
-1. The textbook for overloading operators (<<, ==, !=)
-2. Professor on help with getting the BST to work.
-3. DoublyLinkedList class and ListNode class were modified by me from the one written in the course. BST and TreeNode from the course were modified by me to be template classes. Fileprocessor was created with help from the textbook. The GenStack class was unmodified from the one wrtten in the course.
-4. https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160 for overloading <<
-5. https://www.cplusplus.com/reference/string/string/length/ to remember the string length function.
-6. https://stackoverflow.com/questions/332111/how-do-i-convert-a-double-into-a-string-in-c for converting a double to a string (also used for integers).
-7. Consulted some with fellow students although no code shared.
-8. https://stackoverflow.com/questions/677632/different-methods-for-instantiating-an-object-in-c for instantiating objects on stack with overloaded constructors.
-9. For help on getting rid of errors: https://www.cplusplus.com/forum/beginner/5734/ 
+1. The Zybooks C++ textbook for overloading operators (<<, ==, !=).
+2. My professor for help with getting the BST to work.
+3. The DoublyLinkedList class and ListNode class were modified by me from the one written in the course. BST and TreeNode from the course were modified by me to be template classes. Fileprocessor was created with help from the textbook. The GenStack class was unmodified from the one wrtten in the course.
+4. https://docs.microsoft.com/en-us/cpp/standard-library/overloading-the-output-operator-for-your-own-classes?view=msvc-160 for overloading <<.
+6. https://www.cplusplus.com/reference/string/string/length/ to remember the string length function.
+7. https://stackoverflow.com/questions/332111/how-do-i-convert-a-double-into-a-string-in-c for converting a double to a string (also used for integers).
+8. A few fellow students who I consulted with although no code was shared.
+9. https://stackoverflow.com/questions/677632/different-methods-for-instantiating-an-object-in-c for instantiating objects on stack with overloaded constructors.
+10. https://www.cplusplus.com/forum/beginner/5734/ for help on getting rid of errors.
