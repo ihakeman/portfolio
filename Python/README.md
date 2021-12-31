@@ -9,4 +9,4 @@
 - I wrote all of the .py files myself.
 
 ## References
-- The textbook for the class
+- The textbook for the class: The Practice of Computing Using Python (3rd Edition)
