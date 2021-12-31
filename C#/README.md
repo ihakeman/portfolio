@@ -1,14 +1,14 @@
 # Cannon Skeet Blast Video Game
 
-- This project is an exercise in creating my own video game from scratch. I utilized Unity and wrote C# scripts to make the game. The premise of the game is that the player controls a cannon in a castle tower and is tasked with shooting skeet targets until they run out of cannon balls.
+- This project was an exercise in creating my own video game from scratch. I utilized Unity and wrote C# scripts to make the game. The premise of the game is that the player controls a cannon in a castle tower and is tasked with shooting skeet targets until they run out of cannon balls.
 
 ## Directions for testing the game:
 1. The provided build only works on Windows computers.
-2. Enter the `Cannon Skeet Blast Windows Build` folder in Windows Explorer
+2. Enter the `Cannon Skeet Blast Windows Build` folder
 3. Open `Cannon Skeet Blast.exe` and enjoy.
 
 ## Notes
-This project was completed in Unity 2019.4.9f1. If you are interested in the Unity Project Folder (perhaps to make a build for a different operating system), I can provide that as well if you let me know by emailing me at hakeman@chapman.edu. I ommitted the project folder in interest of keeping my portfolio smaller in terms of megabytes.
+This project was completed in Unity 2019.4.9f1. If you are interested in the Unity Project Folder (perhaps to make a build for a different operating system), I can provide that if you let me know by emailing me at hakeman@chapman.edu. I ommitted the project folder in interest of keeping my portfolio smaller in terms of megabytes.
 
 I did include the C# source code which I wrote that runs the game. It is in the C# Source Code folder.
 
@@ -28,7 +28,7 @@ I did include the C# source code which I wrote that runs the game. It is in the 
     - https://docs.unity3d.com/ScriptReference/Transform-eulerAngles.html
     - https://docs.unity3d.com/ScriptReference/Input.html
     - https://docs.unity3d.com/ScriptReference/Input.GetKey.html
-- Unity Asset Store: 
+- The Unity Asset Store: 
     - Grenade Sound FX by MGWSoundDesign (deleted all but the 3 sounds used)
     - UI - Mechanical (Free Sample Pack) by InspectorJ Sound Effects (deleted all but the 1 sound used)
 - My music library: 
