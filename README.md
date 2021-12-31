@@ -1,2 +1,2 @@
 # Portfolio
-This repository is a showcase of some of the projects that I have worked on in various programming languages.
+This repository includes examples of projects I have completed in various programming languages.
